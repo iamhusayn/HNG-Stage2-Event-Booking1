@@ -1,5 +1,7 @@
 import React from "react";
 
-export const page = () => {
-  return <div>page</div>;
+const About = () => {
+  return <div>Welcome to the About Tickets page</div>;
 };
+
+export default About;
